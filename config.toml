@@ -5,16 +5,16 @@ publishdir = "public"
 canonifyUrls = "true"
 disableKinds = ["RSS","taxonomy","taxonomyTerm"] # disable hugo's content that we don't need...
 
-title = "Akashaverse" # page title -> see ./layouts/partials/head.html
+title = "The Akashaverse" # page title -> see ./layouts/partials/head.html
 
 googleAnalytics = "" # if needed...
 
 [author]
-    name = "AWE.SOME"
-    email = "awe.some@example.com"
+    name = "The Akashaverse"
+    email = "theakashaverse@gmail.com"
 
 [params]
-    description = "AWE.SOME - A Landing Page Template for Hugo" # page description -> see ./layouts/partials/head.html
+    description = "The Akashaverse -- Trisactions for All" # page description -> see ./layouts/partials/head.html
     images = [] #add images here as "img/name.ext" (points to s./static/img/) to populate the default og and twitter <meta> attributes -> see ./layouts/partials/head.html
 
 # these items will be rendered 1. into a tooltip in the navbar and 2. into the footer - consider that there's limited space when adding more items -> see ./layouts/partials
@@ -24,3 +24,5 @@ googleAnalytics = "" # if needed...
 [[params.social]]
     title = "LinkedIn"
     url = "https://linkedin.com/company/#" # add your linkedin profile URL
+
+contact_form =  "https://hub.pantrypoints.com/api/email"

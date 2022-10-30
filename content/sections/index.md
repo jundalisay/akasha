@@ -1,5 +1,5 @@
 ---
-title: AWE.SOME
+title: The Akashaverse
 headless: true
 resources:
     - name: about
@@ -11,4 +11,3 @@ resources:
     - src: 'features/*'
 ---
 
-> this folder stores the content for the HOME page

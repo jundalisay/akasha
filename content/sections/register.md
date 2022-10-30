@@ -1,5 +1,5 @@
 ---
-title: Registration
+title: Register in the waitlist
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi.
+Register with your email and city so we can inform you when The Akashaverse will be deployed in your city. 

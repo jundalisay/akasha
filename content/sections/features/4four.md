@@ -1,7 +1,8 @@
 ---
-title: AWE.SOME Feature 4
+title: Ethereum Kash Coins
 weight: 4
-icon: icon4.svg
+icon: "<svg fill='white' height='50px' class='p-2'  viewBox='0 0 320 512'><path d='M311.9 260.8L160 353.6 8 260.8 160 0l151.9 260.8zM160 383.4L8 290.6 160 512l152-221.4-152 92.8z'/></svg>"
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt.
+Kash coins are Ethereum stablecoins that are meant to soak up ethereum from the metaverse and convert them to real value
+  

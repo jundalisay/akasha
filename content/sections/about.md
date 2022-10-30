@@ -1,7 +1,11 @@
 ---
-title: AWE.SOME Heading
+title: Introducing Trisactions
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt.
+Trisactions are three ways to do transactions:
+
 <br><br>
-**Vivamus vitae erat vel tellus condimentum consectetur.**
+
+- **Money (Cash or Cashless)**
+- **Moneyless (Barter)**
+- **Metaverse (Ethereum)**
