@@ -1,8 +1,8 @@
 ---
-title: Introducing Trisactions
+title: Introducing "Tri-sactions"
 ---
 
-Trisactions are three ways to do transactions:
+Tri-sactions are three ways to do transactions:
 
 <br><br>
 
