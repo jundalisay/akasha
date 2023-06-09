@@ -25,4 +25,4 @@ Thanks for applying to our team. However, our team is complete.
 You can learn more about our project at https://pantrypoints.com 
 
 colorpink
-#d6528c
+#`d6528c`

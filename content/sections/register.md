@@ -1,5 +1,5 @@
 ---
-title: Register in the waitlist
+title: Sign up in the waitlist
 ---
 
-Register with your email and city so we can inform you when The Akashaverse will be deployed in your city. 
+Sign up with your email and city so we can inform you when The Akashaverse will be deployed in your city. 
